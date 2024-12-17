@@ -1,0 +1,12 @@
+body {
+    font-family: "Times New Roman", Arial, serif;
+    background-color: rgb(130, 158, 191);
+  }
+
+h1.heading {
+    font-family: 'Brush Script MT', cursive;
+    color:crimson;
+    font-size: 60px;
+    text-align:center;
+}
+  

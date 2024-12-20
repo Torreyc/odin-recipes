@@ -2,6 +2,7 @@ body {
     font-family: "Times New Roman", Arial, serif;
     background-color: rgb(130, 158, 191);
     font-size: 24px;
+    margin: 0;
   }
 
 h1.heading {
@@ -9,8 +10,22 @@ h1.heading {
     color:crimson;
     text-align:center;
     font-size: 60px;
+    background-color: black;
+    margin: 0;
 }
 ul.list {
     list-style-position: inside;
     text-align: center;
+}
+
+a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px; 
+    font-weight: bold;
+    color: white; 
+    background-color: crimson; 
+    border: none;
+    border-radius: 5px;
 }
